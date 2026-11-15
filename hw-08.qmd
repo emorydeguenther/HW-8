@@ -8,4 +8,20 @@ format: pdf
 
 Higher PRS is associated with a lower FEV1/FVC ratio. For people with less than 10 pack-years of smoking, a one-unit increase in PRS is associated with a 0.03 decrease in the FEV1/FVC ratio. As smoking increases, this negative relationship becomes stronger because the interaction terms are negative.
 
+## Exercise 2
+
+Yes, there is statistically significant evidence that the relationship between PRS and FEV1/FVC ratio depends on smoking exposure. All the interactions have p-values less than 0.001, which is below 0.05. This suggests that the relationship changes depending on how much someone has smoked.
+
+## Exercise 3
+
+People with more than 50 pack-years of smoking are predicted to have an FEV1/FVC ratio that is 0.04 lower than people with less than 10 pack-years, when PRS is 0 and all other variables are held constant.
+
+## Exercise 4
+
+Higher fruit availability is associated with shorter daily travel distances. The relationship also depends on frugivory. For the reference group, the coefficient is -0.028, and for the other group, it is -0.158. This suggests that the negative relationship is stronger for the other group.
+
+## Exercise 5
+
+When fruit availability is 0, a one-unit increase in frugivory is associated with a 0.041 decrease in predicted daily travel distance, holding the other variables constant.
+ 
 
