@@ -1,0 +1,11 @@
+---
+title: "HW 8"
+author: "Emory DeGuenther"
+format: pdf
+---
+
+## Exercise 1
+
+Higher PRS is associated with a lower FEV1/FVC ratio. For people with less than 10 pack-years of smoking, a one-unit increase in PRS is associated with a 0.03 decrease in the FEV1/FVC ratio. As smoking increases, this negative relationship becomes stronger because the interaction terms are negative.
+
+
