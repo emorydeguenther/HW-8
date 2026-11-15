@@ -24,4 +24,7 @@ Higher fruit availability is associated with shorter daily travel distances. The
 
 When fruit availability is 0, a one-unit increase in frugivory is associated with a 0.041 decrease in predicted daily travel distance, holding the other variables constant.
  
+## Exercise 6
+
+Smoking prevalence decreased more for low-income people than for high-income people after Prop 56. For low-income people, it decreased from 14.0% to 6.8%, while for high-income people, it only decreased from 4.5% to 4.2%. This suggests that the effect of Prop 56 may depend on income, but we would need an interaction test to know if the difference is statistically significant.
 
